@@ -66,6 +66,7 @@
   <project name="platform_vendor_aosp" path="vendor/aosp" remote="aosp-caf" />
   <project name="platform_vendor_qcom-opensource_dataservices" path="vendor/qcom/opensource/dataservices" remote="aosp-caf" />
   <project name="platform_vendor_qcom-opensource_dpm" path="vendor/qcom/opensource/dpm" remote="aosp-caf" />
+  <project name="platform_vendor_qcom-opensource_bluetooth" path="vendor/qcom/opensource/bluetooth" remote="aosp-caf"/>
 <!-- END AOSP-CAF -->
 
 <!-- BEGIN ATHENE -->
@@ -514,7 +515,6 @@
   <project groups="tools" name="platform/tools/external/gradle" path="tools/external/gradle"/>
   <project groups="pdk" name="platform/tools/test/connectivity" path="tools/test/connectivity" />
   <project groups="qcom" name="platform/vendor/codeaurora/telephony" path="vendor/codeaurora/telephony" />
-  <project groups="qcom" name="platform/vendor/qcom-opensource/bluetooth" path="vendor/qcom/opensource/bluetooth"/>
   <project groups="qcom" name="platform/vendor/qcom-opensource/fst-manager" path="vendor/qcom/opensource/fst-manager" revision="wigig.lnx.1.0.r5-rel"/>
   <project groups="qcom" name="platform/vendor/qcom-opensource/mmc-utils" path="vendor/qcom/opensource/mmc-utils" revision="core-technologies.lnx.1.0.r5-rel"/>
   <project groups="qcom" name="platform/vendor/qcom-opensource/rcs-service" path="vendor/qcom/opensource/rcs-service" />
