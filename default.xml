@@ -452,7 +452,7 @@
   <project groups="pdk-fs" name="platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" />
   <project groups="pdk-fs" name="platform/packages/apps/SafetyRegulatoryInfo" path="packages/apps/SafetyRegulatoryInfo" />
   <project groups="pdk-fs" name="platform/packages/apps/SmartCardService" path="packages/apps/SmartCardService"/>
-  <project groups="pdk-fs" name="platform/packages/apps/SnapdragonLauncher" path="packages/apps/SnapdragonLauncher" />
+  <project groups="pdk-fs" name="platform/packages/apps/SnapdragonGallery" path="packages/apps/SnapdragonGallery" />
   <project groups="pdk-fs" name="platform/packages/apps/SnapdragonMusic" path="packages/apps/SnapdragonMusic" />
   <project groups="pdk-fs" name="platform/packages/apps/SpareParts" path="packages/apps/SpareParts" />
   <project groups="pdk-fs" name="platform/packages/apps/SpeechRecorder" path="packages/apps/SpeechRecorder" />
