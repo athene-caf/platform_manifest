@@ -540,4 +540,8 @@
   <project groups="qcom" name="platform/vendor/qcom-opensource/tools" path="vendor/qcom/opensource/tools" revision="opensource-tools.lnx.1.0.r5-rel"/>
 <!-- END CODEAURORA -->
 
+<!-- BEGIN SUBSTRATUM -->
+  <project name="TeamSubstratum/masquerade" path="packages/apps/masquerade" remote="github" revision="n" />
+<!-- END SUBSTRATUM -->
+
 </manifest>
