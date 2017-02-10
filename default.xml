@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch="https://source.codeaurora.org/quic/la" name="caf" review="codeaurora.org" />
-  <default remote="caf" revision="LA.BR.1.3.6_rb1.12" sync-c="true" sync-j="16" sync-f="true" />
+  <default remote="caf" revision="LA.BR.1.3.6_rb1.13" sync-c="true" sync-j="16" sync-f="true" />
 
   <remote  name="github"
            fetch="https://github.com" />
@@ -532,12 +532,12 @@
   <project name="platform/tools/external/gradle" path="tools/external/gradle" groups="tools" />
   <project name="platform/tools/test/connectivity" path="tools/test/connectivity" />
   <project name="platform/vendor/codeaurora/telephony" path="vendor/codeaurora/telephony" />
-  <project name="platform/vendor/qcom-opensource/fst-manager" path="vendor/qcom/opensource/fst-manager" revision="wigig.lnx.1.0.r5-rel" groups="qcom" />
-  <project name="platform/vendor/qcom-opensource/mmc-utils" path="vendor/qcom/opensource/mmc-utils" revision="core-technologies.lnx.1.0.r5-rel" groups="qcom" />
+  <project name="platform/vendor/qcom-opensource/fst-manager" path="vendor/qcom/opensource/fst-manager" revision="wigig.lnx.1.0.r13-rel" groups="qcom" />
+  <project name="platform/vendor/qcom-opensource/mmc-utils" path="vendor/qcom/opensource/mmc-utils" revision="core-technologies.lnx.1.0.r13-rel" groups="qcom" />
   <project name="platform/vendor/qcom-opensource/rcs-service" path="vendor/qcom/opensource/rcs-service" groups="qcom" />
-  <project name="platform/vendor/qcom-opensource/shortcut-fe" path="shortcut-fe" revision="data.lnx.2.0.r5-rel" groups="qcom" />
+  <project name="platform/vendor/qcom-opensource/shortcut-fe" path="shortcut-fe" revision="data.lnx.2.0.r13-rel" groups="qcom" />
   <project name="platform/vendor/qcom-opensource/time-services" path="vendor/qcom/opensource/time-services" groups="qcom" />
-  <project name="platform/vendor/qcom-opensource/tools" path="vendor/qcom/opensource/tools" revision="opensource-tools.lnx.1.0.r5-rel" groups="qcom" />
+  <project name="platform/vendor/qcom-opensource/tools" path="vendor/qcom/opensource/tools" revision="opensource-tools.lnx.1.0.r13-rel" groups="qcom" />
 <!-- END CODEAURORA -->
 
 <!-- BEGIN SUBSTRATUM -->
