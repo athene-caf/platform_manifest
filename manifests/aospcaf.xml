@@ -60,6 +60,7 @@
   <remove-project name="platform/packages/inputmethods/LatinIME" />
   <remove-project name="platform/packages/providers/MediaProvider" />
   <remove-project name="platform/packages/services/Telephony" />
+  <remove-project name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" />
   <remove-project name="platform/system/bt" />
   <remove-project name="platform/system/core" />
   <remove-project name="platform/system/extras" />
@@ -157,6 +158,9 @@
 
   <!-- BEGIN SUBSTRATUM -->
   <project name="substratum/interfacer" path="packages/apps/ThemeInterfacer" remote="github" revision="n-rootless" />
-  <!-- ENG SUBSTRATUM -->
+  <!-- END SUBSTRATUM -->
 
+  <!-- START UBERTC -->
+  <project name="SlimShadys/arm-eabi-4.9" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9" remote="github" revision="master" />
+  <!-- END UBERTC -->
 </manifest>
